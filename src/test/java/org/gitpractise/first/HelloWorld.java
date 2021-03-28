@@ -16,5 +16,6 @@ public class HelloWorld
     public void shouldAnswerWithTrue()
     {
         assertTrue( true );
+        System.out.println("kkkkkk");
     }
 }
